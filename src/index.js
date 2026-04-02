@@ -30,6 +30,6 @@ const runGame = (description, getQuestionAndAnswer) => {
   }
 
   console.log(`Congratulations, ${name}!`)
-};
+}
 
 export default runGame
